@@ -34,7 +34,7 @@ Execute the program using runserver command.
 </head>
 <body>
     <center>
-        <img src="c:\Users\acer\Pictures\Screenshots\Screenshot 2026-11-21 125319.png" alt="saveetha logo" width="650" height="180">
+        <img src="logo.png" alt="saveetha logo" width="650" height="180">
         
         <h1>MY TIME TABLE - MADUVANTHI M (26004344)</h1>
         <table border="1" cellpadding="12" style="background-color:cornflowerblue;">
